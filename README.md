@@ -55,12 +55,11 @@ Here's a brief overview of the project structure:
 
 ## For contributors
 
-- To get a deeper understanding and build insturctions for the project please check out our project's [Wiki Page](https://github.com/HarshCasper/HelpingHand/wiki).
-- Before contributing do go through the [Code of Conduct](https://github.com/HarshCasper/HelpingHand/blob/master/CODE_OF_CONDUCT.md) and the [Contributors Guidelines](https://github.com/HarshCasper/HelpingHand/blob/master/CONTRIBUTING.md).
-- If you find any bug in the application, or a feature you think would be nice to have, please open an [issue](https://github.com/HarshCasper/HelpingHand/issues).
+- Before contributing do go through the [Code of Conduct](https://github.com/Narcos101/OurApp/blob/main/CODE_OF_CONDUCT.md) and the [Contributors Guidelines](https://github.com/Narcos101/OurApp/blob/main/CONTRIBUTING.md).
+- If you find any bug in the application, or a feature you think would be nice to have, please open an [issue](https://github.com/Narcos101/OurApp/issues).
 - If you want to contribute code, please fork the project and submit a pull request.
 
 ## LICENSE 📜
 
-[MIT](https://github.com/HarshCasper/HelpingHand/blob/master/LICENSE)
+[MIT](https://github.com/Narcos101/OurApp/blob/main/LICENSE)
 
